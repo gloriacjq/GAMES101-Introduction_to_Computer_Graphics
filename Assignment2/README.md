@@ -30,4 +30,4 @@
 
 * SSAA处理前后细节对比：
 
-​		左：未使用SSAA       右：使用SSAA	![with-and-without-SSAA](./with-and-without-SSAA.png)
+​		左：未使用SSAA       右：使用SSAA	![with-and-without-SSAA](./images/with-and-without-SSAA.png)
