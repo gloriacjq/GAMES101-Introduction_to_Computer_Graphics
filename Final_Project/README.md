@@ -45,5 +45,5 @@ make
 
 * GitHub: [leix28 - Mesh-Simplify](https://github.com/leix28/Mesh-Simplify)
 
-- Essay: [Garland M., Heckbert P S., Surface simplification using quadric error matrix, Computer Graphics, 1997, 209-216.](reference/Surface Simplification Using Quadric Error Metrics_BY_Garland&Heckbert.pdf)
+- Essay: [Garland M., Heckbert P S., Surface simplification using quadric error matrics, Computer Graphics, 1997, 209-216.](reference/Surface Simplification Using Quadric Error Metrics_BY_Garland&Heckbert.pdf)
 
